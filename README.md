@@ -10,4 +10,5 @@
  * buffer in meters in geopandas
  * distance in meters in geopandas
  * quick pbf to csv
- 
+ * setup miniconda
+ * setup gpu env for ml
