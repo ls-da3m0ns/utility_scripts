@@ -12,3 +12,4 @@
  * quick pbf to csv
  * setup miniconda
  * setup gpu env for ml
+ 
